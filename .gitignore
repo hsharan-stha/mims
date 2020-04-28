@@ -1,0 +1,13 @@
+vendor
+/nbproject/private/
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea/
+.idea/blade.xml
+storage/uploads/*
+public/.htaccess
+public/error_log
+searchresults.log
+public/403.shtml

@@ -1,0 +1,12 @@
+{
+    "name": "nepalicalender/dateconverter",
+    "description": "English (AD) to Nepali (BS) date Converter",
+    "authors": [
+        {
+            "name": "gudboisgn",
+            "email": "gautamsagun@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
